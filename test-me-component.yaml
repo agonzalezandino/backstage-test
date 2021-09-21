@@ -4,8 +4,8 @@ metadata:
   name: test-me
   description: Test Component
   tags:
-    - Hello
-    - World
+    - hello
+    - world
 spec:
   type: service
   lifecycle: test
