@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-me
+  description: Test Component
+  tags:
+    - Hello
+    - World
+spec:
+  type: service
+  lifecycle: test
+  owner: agonzalezandino
+  system: audio-playback
