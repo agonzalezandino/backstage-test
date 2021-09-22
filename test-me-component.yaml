@@ -8,6 +8,5 @@ metadata:
     - world
 spec:
   type: service
-  lifecycle: test
+  lifecycle: experimental
   owner: agonzalezandino
-  system: audio-playback
