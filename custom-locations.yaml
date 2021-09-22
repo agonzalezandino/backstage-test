@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: custom-locations
+  description: A collection of custom locations
+spec:
+  targets:
+    - ./test-me-component.yaml
